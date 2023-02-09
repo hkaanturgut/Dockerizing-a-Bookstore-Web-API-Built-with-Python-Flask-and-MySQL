@@ -13,7 +13,6 @@ The Bookstore Web API Application aims to provide students with hands-on experie
 - Creating a Github repository , branch by Terraform
 - Creating a EC2 instance and Security Group by Terraform
 - Prepare scripts to build a Python Flask App Image using Dockerfile and Docker Compose
-- Push your application into your own public repo on Github
 - Deploy your application on AWS Cloud using Terraform to showcase your app within your team
 #
 
