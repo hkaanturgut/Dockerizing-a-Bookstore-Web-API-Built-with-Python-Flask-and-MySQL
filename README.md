@@ -33,6 +33,35 @@ As a talented cloud engineer, you have been tasked with deploying a groundbreaki
 Get ready to showcase your skills and deploy this innovative app with ease!
 #
 
+## Expected Outcome:
+
+### Upon completion of this project, individuals will have gained comprehensive knowledge and experience in the following areas:
+
+- MySQL Database Configuration
+- Bash Scripting
+- Docker Images
+- Docker Compose
+- AWS EC2 Service
+- AWS Security Group Configuration
+- Terraform variables , tfvars file
+- Terraform Configuration with AWS
+- Git & Github for Version Control System
+
+### With these skills, individuals will be able to:
+
+- Successfully configure a connection to the MySQL database.
+- Build a robust and efficient Docker image.
+- Configure Docker Compose to run a Python Flask app seamlessly.
+- Enhance their bash scripting abilities through the use of the user data section in Terraform to install and set up the web application on the EC2 Instance.
+- Confidently configure AWS EC2 Instances and Security Groups.
+- Effectively use Terraform files to utilize AWS resources.
+- Utilize various Git commands (push, pull, commit, add, etc.) and Github as a powerful version control system.
+- Deploy and run the web application on the AWS EC2 instance using the Github repository as the codebase.
+- By the end of this project, individuals will be well-equipped with the skills and knowledge needed to dockerize and deploy a web application on AWS.
+#
+
+# OUTCOMES 
+
 - Github Repository
 
 ![Screenshot 2023-02-09 at 11 26 44 AM](https://user-images.githubusercontent.com/113396342/217884871-9208b44f-6766-4605-b97d-f40c61f4b9ec.png)
